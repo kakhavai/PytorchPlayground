@@ -14,7 +14,7 @@ Run the app and verify cuda enabled; tensor will be random vals, cuda availabili
 
 1. python test.py
 
-# OUTPUT:
+# Output:
 ```
 
 VERIFY TENSOR OUTPUT:
